@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products>
+<products>
+	<product>
+		<name>Kyrie 7 "Weatherman"</name>
+		<price>₱7590</price>
+	</product>
+	<product>
+		<name>Kobe 6 "Grinch"</name>
+		<price>₱8799.99</price>
+	</product>
+	<product>
+		<name>Nike Zoom Freak 3 "Aqua"</name>
+		<price>₱6,389.00</price>
+	</product>
+	<product>
+		<name>Rick and Morty x Puma MB.01</name>
+		<price>₱7999.99</price>
+	</product>
+	<product>
+		<name>Curry 9 "Sesame Street"</name>
+		<price>₱8,595</price>
+	</product>
+	<product>
+		<name>KD 14 "White Black"</name>
+		<price>₱8799.99</price>
+	</product>
+	<product>
+		<name>Yeezy 700</name>
+		<price>₱35,875</price>
+	</product>
+	<product>
+		<name>Nike SB Dunk Low "Ben and Jerrys"</name>
+		<price>₱5,240.50</price>
+	</product>
+	<product>
+		<name>Nike Air Force 1</name>
+		<price>₱6499.99</price>
+	</product>
+	<product>
+		<name>Air Jordan 1 "University</name>
+		<price>₱7999.99</price>
+	</product>
+	<product>
+		<name>Nike Air Jordan 11"Cool Gray</name>
+		<price>₱9599.99</price>
+	</product>
+	<product>
+		<name>Travis Scott Nike SB Dunk Low</name>
+		<price>₱10599.99</price>
+	</product>
+	<product>
+		<name>Kyrie 7 "Expressions"</name>
+		<price>₱7590</price>
+	</product>
+	<product>
+		<name>Kyrie 7 "Hip Hop"</name>
+		<price>₱7590</price>
+	</product>
+	<product>
+		<name>Kyrie 7 "Horus"</name>
+		<price>₱7590</price>
+	</product>
+	<product>
+		<name>Kyrie 7 "1 World"</name>
+		<price>₱7590</price>
+	</product>
+	<product>
+		<name>Kobe 5 "Bruce Lee"</name>
+		<price>₱8799.99</price>
+	</product>
+	<product>
+		<name>Kobe 5 "5 Times Champ"</name>
+		<price>₱8799.99</price>
+	</product>
+	<product>
+		<name>Kobe 6 "All Star"</name>
+		<price>₱8799.99</price>
+	</product>
+	<product>
+		<name>Kobe 6 "Protro POP"</name>
+		<price>₱8699.90</price>
+	</product>
+	<product>
+		<name>Curry Flow 9 "Talkting Trash"</name>
+		<price>₱6499.99</price>
+	</product>
+	<product>
+		<name>Curry Flow 9 "Close It Out"</name>
+		<price>₱8,595</price>
+	</product>
+	<product>
+		<name>Curry Flow 9 "Dribble Me Elmo"</name>
+		<price>₱8,595</price>
+	</product>
+	<product>
+		<name>Curry Flow 9 "Warp The Game Day"</name>
+		<price>₱8,595</price>
+	</product>
+	<product>
+		<name>Yeezy Boost 350 V2 "MX OAT"</name>
+		<price>₱11,521.84</price>
+	</product>
+	<product>
+		<name>Yeezy Boost 350 V2 "Zebra"</name>
+		<price>₱13,500</price>
+	</product>
+	<product>
+		<name>Yeezy Boost 350 V2"Light"</name>
+		<price>₱11,521.84</price>
+	</product>
+	<product>
+		<name>Yeezy Boost 350 V2 "Core Red"</name>
+		<price>₱11,521.84</price>
+	</product>
+	<product>
+		<name>Nike Dunk Low "Orange"</name>
+		<price>₱11,521.84</price>
+	</product>
+	<product>
+		<name>Nike Dunk Low "University Blue"</name>
+		<price>₱5,095</price>
+	</product>
+	<product>
+		<name>Nike Dunk Low "Sail/Harvest Moon"</name>
+		<price>₱14,399.00</price>
+	</product>
+	<product>
+		<name>Nike Dunk Low "Cheetah"</name>
+		<price>₱12,999.00</price>
+	</product>
+	<product>
+		<name>Air Jordan 1 x Travis Scott</name>
+		<price>₱9,179.19</price>
+	</product>
+	<product>
+		<name>Air Jordan 1 x Dior</name>
+		<price>₱104,943.21</price>
+	</product>
+	<product>
+		<name>Air Jordan 1 x Travis Scott x Fragment</name>
+		<price>₱13,899.91</price>
+	</product>
+	<product>
+		<name>Jordan 1 x Off White Chicago</name>
+		<price>₱145,000.00</price>
+	</product>
+	<product>
+		<name>Nike Zoom Freak 3 "Valentine Day"</name>
+		<price>₱6,389.00</price>
+	</product>
+	<product>
+		<name>Nike Zoom Freak 3 "Antetokounbros"</name>
+		<price>₱6,389.00</price>
+	</product>
+	<product>
+		<name>Nike Zoom Freak 3 "Low Battery"</name>
+		<price>₱6,389.00</price>
+	</product>
+	<product>
+		<name>Nike Zoom Freak 3 "Cave Purple"</name>
+		<price>₱6,389.00</price>
+	</product>
+	<product>
+		<name>Puma MB 1.0 "Queen City"</name>
+		<price>₱7999.99</price>
+	</product>
+	<product>
+		<name>Puma MB 1.0 "Grey Red"</name>
+		<price>₱7999.99</price>
+	</product>
+	<product>
+		<name>Puma MB 1.0 "Red"</name>
+		<price>₱7999.99</price>
+	</product>
+	<product>
+		<name>Puma MB 1.0 "Black Blast"</name>
+		<price>₱7999.99</price>
+	</product>
+</products>
+
